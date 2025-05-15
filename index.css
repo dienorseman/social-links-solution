@@ -31,7 +31,7 @@ main {
     border-radius: 10px;
     padding: 36px;
     width: 386px;
-    height: 612px;
+    height: 624px;
     display: flex;
     flex-direction: column;
 }
@@ -44,8 +44,8 @@ main {
 }
 
 .details img {
-    width: 94px;
-    height: 94px;
+    width: 104px;
+    height: 104px;
     border-radius: 50%;
 }
 
@@ -57,13 +57,13 @@ main {
 }
 
 .details .info h1 {
-    font-size: 1.7rem;
+    font-size: 2rem;
     font-weight: 500;
 }
 
 .details .info h2 {
     color: var(--green);
-    font-size: .9rem;
+    font-size: 1rem;
     font-weight: 400;
 }
 
@@ -91,7 +91,7 @@ main {
 .social-link a {
     display: block;
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 400;
     text-align: center;
     line-height: 44px;
     transition: color 0.3s ease;
